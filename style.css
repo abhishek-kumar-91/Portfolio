@@ -1538,7 +1538,7 @@ textarea.input{
 }
 
 /* for Medium devices */
-@media screen and (max-width: 356px){
+@media screen and (max-width: 256px){
     .container{
         margin-left: var(--mb-0-1);
         margin-right: var(--mb-0-1);
