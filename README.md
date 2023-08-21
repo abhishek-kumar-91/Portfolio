@@ -1,5 +1,5 @@
 # portfolio.github.io
-#Here is link you can access my personal portfolio 
+# you can access my personal portfolio website using given link. 
 https://abhishek-kumar-91.github.io/portfolio/
 
 ![Screenshot (25)](https://github.com/abhishek-kumar-91/portfolio/assets/111195553/8a7c7606-bc90-44c5-a591-73a84969bdef)
