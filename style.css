@@ -1099,6 +1099,7 @@ input{
     padding: 1rem;
     border-radius: .5rem;
     text-align: center;
+    color: #212121;
 }
 
 .contact__card-icon{
