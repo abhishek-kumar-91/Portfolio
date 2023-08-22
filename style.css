@@ -1164,6 +1164,7 @@ input{
     outline: none;
     border-radius: .50rem;
     transition: .3s;
+    color: #212121;
 }
 
 textarea.input{
