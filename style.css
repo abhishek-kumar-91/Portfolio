@@ -1624,3 +1624,7 @@ textarea.input{
     flex-wrap: wrap;
     gap: 10px;
 }
+
+.input{
+    color: #212121;
+}
